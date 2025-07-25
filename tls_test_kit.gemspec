@@ -4,7 +4,6 @@ Gem::Specification.new do |spec|
   spec.name          = 'tls_test_kit'
   spec.version       = TLSTestKit::VERSION
   spec.authors       = ['Stephen MacVicar']
-  spec.email         = ['inferno@groups.mitre.org']
   spec.summary       = 'Inferno tests for server TLS support'
   spec.description   = 'Inferno tests for server TLS support'
   spec.homepage      = 'https://github.com/inferno-framework/tls-test-kit'
