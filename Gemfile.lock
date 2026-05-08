@@ -337,7 +337,7 @@ DEPENDENCIES
   factory_bot (~> 6.1)
   inferno_core!
   rack-test
-  rspec (~> 3.13)
+  rspec (~> 3.10)
   tls_test_kit!
   webmock (~> 3.11)
 
