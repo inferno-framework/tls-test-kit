@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     tls_test_kit (1.0.1)
-      inferno_core (~> 1.2.2)
+      inferno_core (~> 1.2, >= 1.2.2)
 
 GEM
   remote: https://rubygems.org/
