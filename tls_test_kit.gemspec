@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.description   = 'Inferno tests for server TLS support'
   spec.homepage      = 'https://github.com/inferno-framework/tls-test-kit'
   spec.license       = 'Apache-2.0'
-  spec.add_runtime_dependency 'inferno_core', '~> 1.0', '>= 1.0.2'
+  spec.add_runtime_dependency 'inferno_core', '~> 1.2.2'
   spec.add_development_dependency 'database_cleaner-sequel', '~> 1.8'
   spec.add_development_dependency 'factory_bot', '~> 6.1'
   spec.add_development_dependency 'rspec', '~> 3.10'
